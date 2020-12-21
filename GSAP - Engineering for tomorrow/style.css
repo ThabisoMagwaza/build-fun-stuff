@@ -78,6 +78,8 @@ h1 {
     border: solid 3px #C3C3C3;
     background-color: transparent;
 
+    transform-origin: bottom;
+
     position: absolute;
     top: 120px;
     left: -40px;
